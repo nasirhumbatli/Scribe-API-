@@ -1,0 +1,44 @@
+name: Endpoints
+description: ''
+endpoints:
+  -
+    httpMethods:
+      - GET
+    uri: api/products
+    metadata:
+      groupName: Endpoints
+      groupDescription: ''
+      subgroup: ''
+      subgroupDescription: ''
+      title: ''
+      description: ''
+      authenticated: false
+      custom: []
+    headers:
+      Content-Type: application/json
+      Accept: application/json
+    urlParameters: []
+    cleanUrlParameters: []
+    queryParameters: []
+    cleanQueryParameters: []
+    bodyParameters: []
+    cleanBodyParameters: []
+    fileParameters: []
+    responses:
+      -
+        status: 200
+        content: '{"data":[{"id":1,"category_id":17,"name":"Embossing Machine Operator","content":"Et quo possimus fuga praesentium. Rerum illum rerum error hic qui molestiae aut. Doloribus esse eum aspernatur facere ipsam beatae ab molestias.","category":{"id":17,"name":"Jess Green","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":2,"category_id":6,"name":"Hand Presser","content":"Aliquam provident est iusto quo quia. Est quas et minus voluptas eaque reiciendis. Laborum sed blanditiis sit dicta excepturi placeat quis. Magnam nisi dolorum dolor ut.","category":{"id":6,"name":"Roman Corwin","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":3,"category_id":19,"name":"Soil Scientist OR Plant Scientist","content":"Autem laudantium magni iusto consequatur maiores impedit laborum dolorum. Optio voluptatibus nulla amet quis. Nemo tenetur molestiae placeat. Libero vitae autem magni velit perferendis quis.","category":{"id":19,"name":"Ms. Pamela Reichert III","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":4,"category_id":8,"name":"Photographic Reproduction Technician","content":"Est voluptate ipsa qui. Eum modi eum saepe blanditiis voluptatem ut corrupti. Dicta delectus et error sapiente vel ullam. Quas nam et consequuntur similique laboriosam laborum vel.","category":{"id":8,"name":"Mr. Grayson Mraz V","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":5,"category_id":1,"name":"Assessor","content":"Et quo vel laboriosam a. Eius ipsam magni aliquam accusantium autem voluptatum culpa accusamus. Omnis ipsum iusto vel doloribus unde. Nulla voluptates eum architecto cum. Exercitationem doloremque similique quasi at totam natus.","category":{"id":1,"name":"Seth Hill IV","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":6,"category_id":17,"name":"Electrical Sales Representative","content":"Ea cumque voluptatum cupiditate et quia sit facilis. Labore adipisci tenetur cupiditate eos cumque. Nihil hic inventore corporis quia nam aut.","category":{"id":17,"name":"Jess Green","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":7,"category_id":20,"name":"Gaming Surveillance Officer","content":"Rem dolorum ea voluptas dolores. Nam dolor eveniet rerum maiores. Aut doloribus aliquam magnam eveniet molestias eaque. Blanditiis sed est consequatur sit.","category":{"id":20,"name":"Mr. Cleveland Goodwin Jr.","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":8,"category_id":16,"name":"Administrative Law Judge","content":"Possimus inventore repudiandae autem ea exercitationem fugit consectetur porro. Et ducimus qui debitis alias nulla. Velit voluptatem et libero aut ea illum. Fugiat quia quis aut. Est nobis aperiam rem. Et quis aut nobis nihil voluptas.","category":{"id":16,"name":"Ida Jenkins","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":9,"category_id":17,"name":"Administrative Support Supervisors","content":"Maiores repellendus doloribus rem ab. Adipisci et consequatur adipisci ut magni fugiat. Saepe provident earum ea rem impedit est.","category":{"id":17,"name":"Jess Green","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":10,"category_id":1,"name":"Production Worker","content":"Nobis deleniti et et minima nam itaque. Alias aperiam repellendus ut quis iure. Sit ducimus quos velit id. Quis ut unde quia consequatur.","category":{"id":1,"name":"Seth Hill IV","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":11,"category_id":9,"name":"Oil Service Unit Operator","content":"Amet quos facere dolorum mollitia quia cum. Incidunt sapiente voluptas reprehenderit ipsum laudantium beatae explicabo. Autem et recusandae incidunt eaque velit aliquid. Animi nisi est perferendis quas. Quo qui quisquam vel ex.","category":{"id":9,"name":"Ellsworth Schiller","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":12,"category_id":4,"name":"Media and Communication Worker","content":"Tempore placeat recusandae quo. Dignissimos velit qui odio sapiente ab non modi.","category":{"id":4,"name":"Joshua Hills","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":13,"category_id":19,"name":"Copy Machine Operator","content":"Quasi quia deleniti reprehenderit ullam ea quibusdam earum deserunt. Voluptas fugit voluptas quis illum non nobis. Voluptas fugit dicta et omnis et. Inventore quia ut cupiditate.","category":{"id":19,"name":"Ms. Pamela Reichert III","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":14,"category_id":9,"name":"Welder-Fitter","content":"Hic nesciunt placeat in sed. Eos enim mollitia laborum placeat laudantium in. In architecto tenetur autem dolore. Nisi est consequatur dolore aliquid.","category":{"id":9,"name":"Ellsworth Schiller","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":15,"category_id":14,"name":"Elevator Installer and Repairer","content":"Illo earum sapiente adipisci saepe qui. Tempore deserunt non illum ipsa inventore nisi cumque atque. Delectus porro ut error nostrum.","category":{"id":14,"name":"Miller Hansen","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":16,"category_id":15,"name":"Scientific Photographer","content":"Nemo cumque sint dolor rerum sint tempora. Ab qui at quam rem consequuntur corrupti assumenda. A exercitationem atque dolore commodi sed quo minima. Voluptas laboriosam atque ipsum.","category":{"id":15,"name":"Ms. Jacinthe Nikolaus Sr.","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":17,"category_id":12,"name":"Home Appliance Repairer","content":"Accusantium architecto quae quae pariatur dolorem voluptas. Sint doloribus voluptatum voluptatibus aut ut aut est. Repellendus vitae dolores omnis quo perferendis. Aut ut nisi ad sit ullam voluptatum nostrum.","category":{"id":12,"name":"Colleen Prosacco III","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":18,"category_id":10,"name":"Instrument Sales Representative","content":"Minima fuga aperiam eum porro ea. Et quam voluptas quod recusandae eos eos. Alias ut molestias tempore velit maxime laudantium.","category":{"id":10,"name":"Wilfredo Harber MD","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":19,"category_id":15,"name":"Pharmaceutical Sales Representative","content":"Magnam est atque perspiciatis corrupti non. Quibusdam cumque voluptas modi aut earum. Voluptatum voluptatum labore non amet ex.","category":{"id":15,"name":"Ms. Jacinthe Nikolaus Sr.","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}},{"id":20,"category_id":11,"name":"Title Examiner","content":"Sint illum soluta totam harum recusandae. Aperiam iure consequatur et rerum numquam excepturi officiis omnis. Rerum est deleniti animi quia alias quis.","category":{"id":11,"name":"Ms. Esta Stoltenberg DDS","file":null,"created_at":"2024-01-09T08:17:55.000000Z"}}]}'
+        headers:
+          cache-control: 'no-cache, private'
+          content-type: application/json
+          x-ratelimit-limit: '60'
+          x-ratelimit-remaining: '56'
+          access-control-allow-origin: '*'
+        description: null
+        custom: []
+    responseFields: []
+    auth: []
+    controller: null
+    method: null
+    route: null
+    custom: []
